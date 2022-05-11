@@ -14,7 +14,7 @@ Por que editar? Você precisar preencher a palavra de busca
 
 >nano main.py
 
-No arquivo você apaga a frase e coloca a palavra que deseja fazer a busca
+No arquivo você apaga a frase e coloca a palavra que deseja fazer a busca deixando as 'exemplo'
 Para salvar e sair aperte CTRL e a letra X depois precione Y e ENTER
 
 AGORA JA PODE SEGUIR O PASSO ABAIXO!
